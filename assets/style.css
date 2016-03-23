@@ -1,6 +1,6 @@
 body {	color:#666;	font:300 15px/15px Roboto,Arial,Helvetica;background-color:#fff;-webkit-font-smoothing:antialiased;background-color: #eee;}
 
-a{color:#5E9A18; text-decoration:none;}
+a{color:##990000; text-decoration:none;}
 a:hover{color:#666;}
 .btn,a,.btn:hover,a:hover {
 -webkit-transition: all 0.3s ease-in-out;
@@ -12,9 +12,9 @@ outline: none !important;
 }
 
 h1,h2,h3,h4{margin: 0;line-height: 1em;}
-h1{font:300 4em Roboto,Arial,Helvetica;padding:5em 0;color: #fff;}
-h2{font:300 2.5em Roboto,Arial,Helvetica;margin-bottom:0.5em; }
-h3{font:300 2em Roboto,Arial,Helvetica;margin-bottom: 1em;}
+h1{font:300 4em Graduate;padding:5em 0;color: #fff;}
+h2{font:300 2.5em Graduate;margin-bottom:0.5em; }
+h3{font:300 2em Graduate;margin-bottom: 1em;}
 
 
 p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
@@ -68,6 +68,10 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 }
 
-#black_flag {
-	background-image: 
+.party {
+	text-align: center;
+}
+
+.here {
+	color: black;
 }
